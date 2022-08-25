@@ -7,3 +7,6 @@
 [submodule "lib/openzeppelin-contracts"]
 	path = lib/openzeppelin-contracts
 	url = https://github.com/Openzeppelin/openzeppelin-contracts
+[submodule "lib/peg-token"]
+	path = lib/peg-token
+	url = https://github.com/hardsp0rk/peg-token
