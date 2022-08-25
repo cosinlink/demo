@@ -18,6 +18,13 @@ forge install hardsp0rk/peg-token
 forge test
 ```
 
+## Test on fork avax
+```sh
+git submodule update --init --recursive
+forge test --match-contract BUSDContractTest -vvvv
+```
+
+
 ## Build
 
 ```sh
